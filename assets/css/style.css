@@ -300,6 +300,9 @@ img{
 .skills_react{
     width: 20%;
 }
+.skills_git{
+    width: 80%;
+}
 .skills_img{
     border-radius: .5rem;
 }
