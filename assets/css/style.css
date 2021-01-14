@@ -298,10 +298,16 @@ img{
     width: 82%;
 }
 .skills_react{
-    width: 20%;
+    width: 65%;
+}
+.skills_node{
+    width: 55%;
 }
 .skills_git{
     width: 80%;
+}
+.skills_mysql{
+    width: 70%;
 }
 .skills_img{
     border-radius: .5rem;
